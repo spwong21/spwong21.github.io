@@ -65,6 +65,11 @@
 			display: none;
 		}
 
+		/*Steve's addition for hover behavior*/
+		#main:hover #icon-label {
+			display: block;
+		}
+
 /* Wrapper */
 	@-moz-keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
 	@-webkit-keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
