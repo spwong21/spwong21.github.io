@@ -63,6 +63,8 @@
 
 		.icon > .label {
 			display: none;
+			font-size: 10px;
+			text-transform: uppercase;
 		} 
 
 		/*Steve's addition for hover behavior*/
