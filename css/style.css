@@ -61,9 +61,9 @@
 			text-transform: none !important;
 		}
 
-		/*.icon > .label {
+		.icon > .label {
 			display: none;
-		} */
+		} 
 
 		/*Steve's addition for hover behavior*/
 		.icon:hover > .label {
