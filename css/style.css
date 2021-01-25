@@ -59,7 +59,7 @@
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
-			content: attr(label);
+			
 		}
 
 		.icon > .label {
@@ -67,9 +67,7 @@
 		}
 
 		/*Steve's addition for hover behavior*/
-		.icon:hover .icon::after {
-			content: attr(label);
-		}
+		
 
 /* Wrapper */
 	@-moz-keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
